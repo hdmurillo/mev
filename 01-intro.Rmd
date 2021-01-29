@@ -1,4 +1,19 @@
-# Introduction {#intro}
+# Epidemiología
+
+## México
+
+*Población y vivienda*
+
+La población en México en reportada en el Censo de Población y Vivienda 2020 del INEGI fue de **126 014 024**.
+Población total y tasa de crecimiento promedio anual, 1985-2020
+
+Siendo las mujeres *64 540 634* (51.2%) y los hombres *61 473 390* (48.8%).
+La piramide poblacional comienza a reducir su base en los grupos quinquenales inferiores a los 25 años y presenta un ensanchamiento en los mayores de 40 años comparando con el año 2010 y 2000. 
+
+
+
+
+
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
