@@ -17,3 +17,4 @@ description: "This is a minimal example of using the bookdown package to write a
 La _*Medicina de Estilo de Vida*_ es una nueva disciplina de la medicina moderna. 
 
 En este libro tratamos de documentar la evidencia que da soporte a esta nueva práctica con la finalidad de que sea un sitio de fácil acceso y difusión para los interesados. 
+
